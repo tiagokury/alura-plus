@@ -71,7 +71,7 @@ body {
 
 .secundario {
     align-items: center;
-    margin: 0 10em;
+    margin: 0em 8em;
 }
 
 .secundario__imagem {
@@ -85,7 +85,7 @@ body {
     margin-bottom: 0.1em;
 }
 
-.descrcao__texto {
+.descricao__texto {
     color: var(--cinza-secundario);
 }
 
@@ -121,7 +121,7 @@ body {
 
 .rodape {
     text-align: center;
-    margin: 10em 3em;
+    margin: 5em 3em;
 }
 
 .rodape__logo {
